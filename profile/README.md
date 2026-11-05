@@ -1,11 +1,11 @@
 # RADOVA OS
 **Server client system for audio management system**
 
-Sparow OS is an operating system designed specifically to support DevOps environments, with a strong focus on automation, efficiency, and system reliability. It provides a ready-to-use and consistent platform for managing the entire software delivery lifecycle, from development to deployment and operations.
+RADOVA OS is an operating system designed specifically to support DevOps environments, with a strong focus on automation, efficiency, and system reliability. It provides a ready-to-use and consistent platform for managing the entire software delivery lifecycle, from development to deployment and operations.
 
-Sparow OS is built with a lightweight and modular architecture, allowing it to run efficiently on servers, virtual machines, and container-based infrastructures. It is optimized to integrate seamlessly with modern DevOps tools and cloud-native technologies.
+RADOVA OS is built with a lightweight and modular architecture, allowing it to run efficiently on servers, virtual machines, and container-based infrastructures. It is optimized to integrate seamlessly with modern DevOps tools and cloud-native technologies.
 
-<img src="https://www-debugpoint-com.translate.goog/wp-content/uploads/2023/09/GNOME-Desktop-version-44.jpg?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs" width="800">
+
 
 ## Overview
 This document describes:
