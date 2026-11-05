@@ -1,4 +1,4 @@
-# hellbounds
+# RADOVA OS
 **Server client system for audio management system**
 
 Sparow OS is an operating system designed specifically to support DevOps environments, with a strong focus on automation, efficiency, and system reliability. It provides a ready-to-use and consistent platform for managing the entire software delivery lifecycle, from development to deployment and operations.
